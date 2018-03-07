@@ -19,7 +19,7 @@
 	我正在学习Markdown语法，还有Python语言。   我正在学习Markdown语法，还有Python语言。   我正在学习Markdown语法，还有Python语言。   我正在学习Markdown语法，还有Python语言。   我正在学习Markdown语法，还有Python语言。   我正在学习Markdown语法，还有Python语言。   我正在学习Markdown语法，还有Python语言。   我正在学习Markdown语法，还有Python语言。   我正在学习Markdown语法，还有Python语言。   我正在学习Markdown语法，还有Python语言。    
 	我的信息如下：    
 	姓名：Harry  
-	QQ:280688074
+	QQ:280688074  
 ##强调 Demo
 我是**粗体**文字样式  
 我是*斜体*文字样式  
