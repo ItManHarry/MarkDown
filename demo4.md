@@ -19,4 +19,17 @@
 
 - ***~~加粗倾斜删除~~***
 
-~~删除~~
+## 图片链接
+
+- 基本文字链接
+
+	- [百度][baidu]
+	
+	- ![基本图片](https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo_top_ca79a146.png)
+
+- 图片链接
+	- [![基本图片][baidu_logo]][baidu]
+
+
+[baidu]:https://www.baidu.com/
+[baidu_logo]:https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo_top_ca79a146.png
