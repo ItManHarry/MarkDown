@@ -36,6 +36,12 @@
 	}
 ```
 
+```python
+	def show_table():
+		s = "table"
+		print "Table is : %s" %s
+```
+
 <!-- 所有的链接放在最后定义 -->
 [百度]:https://www.baidu.com
 [baidu]:https://www.baidu.com
